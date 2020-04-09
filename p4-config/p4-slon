@@ -1,0 +1,4 @@
+
+export P4PORT=ssl:perforce.esafeline.com:1666
+export P4CLIENT=slon
+export P4USER=hzhurov
