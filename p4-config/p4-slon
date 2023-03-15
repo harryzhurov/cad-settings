@@ -2,3 +2,4 @@
 export P4PORT=ssl:perforce.esafeline.com:1666
 export P4CLIENT=slon
 export P4USER=hzhurov
+export P4INGORE=~/.p4-cfg/p4ignore
