@@ -9,4 +9,6 @@
     { "keys": ["ctrl+w"], "command": "delete_word", "args": { "forward": true } },
     { "keys": ["ctrl+d"], "command": "duplicate_line" },
     { "keys": ["ctrl+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["alt+shift+-"], "command": "insert_snippet", "args": {"contents": "&nbsp;–"} },
+    { "keys": ["ctrl+space"], "command": "insert_snippet", "args": {"contents": "&nbsp;"} },
 ]
